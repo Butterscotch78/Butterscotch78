@@ -7,7 +7,7 @@ I am a recent Cybersecurity Graduate from the University of North Georgia with a
 
 ## Objective
 
-I am passionate about information security and take pleasure in contributing to solutions that benefit an organization and the people it serves. I place a high value on maintaining a robust security posture to safeguard sensitive information and mitigate risk.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
